@@ -1,4 +1,4 @@
-# pokemon
+# Pokemon Cards Flip
 
 ## Project setup
 ```
